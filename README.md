@@ -1,4 +1,4 @@
-# Upware Test :sparkles:
+# react django api based crud :sparkles:
 
 ## Table of contents
 * [General Info](#General-Info)
