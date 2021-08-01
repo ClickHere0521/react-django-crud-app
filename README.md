@@ -13,7 +13,13 @@
 ### FrontEnd 
 
   Make sure that you are located in the frontend directory.
-  On the commmand window, run `npm install` and `npm start`
+  On the commmand window, 
+  run 
+  
+  `npm install` 
+  
+  `npm start`
+  
   Then you can see the frontend at the http://localhost:3000
   
 ### BackEnd
